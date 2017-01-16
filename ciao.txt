@@ -1,2 +1,4 @@
 ciao 1
-Void Main()
+Void Main(){
+ddff
+}
